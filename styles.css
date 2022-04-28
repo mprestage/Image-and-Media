@@ -9,12 +9,15 @@ body {
 
 }
 
+
 .media > img {
   width: 100%;
 }
 
 .media {
-  
+  max-width: 400px;
+  max-height: 260px;
+  overflow: hidden;
 }
 
 .layer {
